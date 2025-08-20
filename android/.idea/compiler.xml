@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Androidtx.one-react-native-upi" target="21" />
+      <module name="Androidtx.react-native-sound-player" target="21" />
+      <module name="Androidtx.supersami_rn-foreground-service" target="21" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
