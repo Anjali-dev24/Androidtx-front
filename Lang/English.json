@@ -1,0 +1,157 @@
+{
+  "translation": {
+    "loginString": {
+      "Password": "Password",
+      "phone": "Phone Number",
+      "title": "Please log in with your phone number",
+      "forgot": "Forgot password",
+      "remember": "Remember me",
+      "safe": "Safe & Secure"
+    },
+    "registerString": {
+      "SelectCountry": "Select Country",
+      "Register": "Register",
+      "phoneNumber": "Phone Number",
+      "emailAddress": "Email Address",
+      "timeZone": "Select Time Zone",
+      "password": "Password",
+      "confirmPassword": "Confirm Password",
+      "inviteCode": "Invite Code",
+      "policy": "I have read and agree to all the terms and contions & Privacy Policy"
+    },
+    "forgotPasswordString": {
+      "forgotPassword": "Forgot Password",
+      "info": "Please retrieve/change your password through your mobile phone number or email.",
+      "phoneLogin": "Login with phone",
+      "phoneEmail": "Login with email",
+      "phoneNumber": "Phone Number",
+      "email": "Email"
+    },
+    "otpString": {
+      "verification": "Verification",
+      "title": "We've sent OTP to your mobile number at your mobile number or email. Please enter four digit code you receive.",
+      "notReceived": "Didn't received code?",
+      "resentOtp": "Resend OTP",
+      "headLine": "Create New Password",
+      "subTitle": "Create new password for your account.",
+      "newPassword": "New Password",
+      "confirmPassword": "Confirm Password"
+    },
+    "homeScreen": {
+      "banner": "Welcome to 9TX bat 1",
+      "lottery": "Lottery",
+      "cricket": "Cricket",
+      "drawGiveaway": "Draw Giveaway",
+      "tradeline": "Tradeline",
+      "captain": "Captain",
+      "winningInfo": "Winning Information",
+      "todayEarning": "Today's Earning",
+      "member": "Member"
+    },
+    "tabs": {
+      "home": "Home",
+      "wallet": "Wallet",
+      "promotion": "Promotion",
+      "referral": "Referral",
+      "profile": "Profile"
+    },
+    "walletScreen": {
+      "totalBal": "Total Balance",
+      "selectedCurrency": "Selected Currency",
+      "amountUnutilized": "Amount Unutilized",
+      "winning": "Winnings",
+      "withdrawHistory": "Withdraw History",
+      "depositHistory": "Deposit History",
+      "gameHistory": "Game History"
+    },
+    "promotionScreen": {
+      "attendance": "Attendance Bonus",
+      "firstDeposit": "First Deposit Bonus",
+      "invitationRule": "Invitation Rules",
+      "invitationRecord": "Invitation Record"
+    },
+    "attendanceScreen": {
+      "attendanceBonus": "Attendance Bonus",
+      "subTitle": "Get rewards based on consecutive\nlogin days",
+      "attendanceConsecutively": "Attendance Consecutively",
+      "acumulated": "Acumulated"
+    },
+    "rules": {
+      "activityRules": {
+        "rule1": "Exclusive for the first recharge of the account. There is only one chance. The more you recharge, the more rewards you will receive. The highest reward is ₹8,888.00;",
+        "rule2": "Activities cannot be participated in repeatedly;",
+        "rule3": "Rewards can only be claimed manually on IOS, Android, H5, and PC;",
+        "rule4": "The bonus (excluding the principal) given in this event requires 1 times the coding turnover (i.e. valid bets) before it can be withdrawn, and the coding does not limit the platform;",
+        "rule5": "This event is limited to normal human operations by the account owner. It is prohibited to rent, use plug-ins, robots, gamble with different accounts, brush each other, arbitrage, interfaces, protocols, exploit loopholes, group control or other technical means to participate, otherwise it will be canceled or Rewards will be deducted, frozen, or even blacklisted;",
+        "rule6": "In order to avoid differences in text understanding, the platform reserves the right of final interpretation of this event."
+      },
+      "invitaionRules": {
+        "rule1": "Only when the number of invited accounts is reached and each account can meet the recharge amount can you receive the bonus.",
+        "rule2": "The invitation account meets the requirements, but the recharge amount of the account does not meet the requirements, and the bonus cannot be claimed.",
+        "rule3": "Please claim the event bonus within the event period. All bonuses will be cleared after the event expires.",
+        "rule4": "Please complete the task within the event period. After the event expires, the invitation record will be cleared."
+      }
+    },
+    "historyScreens": {
+      "withdrawScreen": {
+        "withdraw": "Withdraw History",
+        "searchFilter": "Search or filter payment",
+        "orderId": "Order ID",
+        "time": "Time",
+        "type": "Type",
+        "amount": "Amount",
+        "remark": "Remark",
+        "status": "Status:"
+      },
+      "depositScreen": {
+        "deposit": "Deposit History"
+      },
+      "gameHistoryScreen": {
+        "gameHistory": "Game History",
+        "searchFilter": "Search or filter payment",
+        "orderId": "Order ID",
+        "period": "Period",
+        "select": "Select",
+        "quantity": "Quantity",
+        "totalAmount": "Total Amount",
+        "handlingFee": "Handling Fee",
+        "actualAmt": "Actual Amount",
+        "profit/loss": "Profit/Loss",
+        "result": "Result"
+      }
+    },
+    "referralScreen":{
+      "title":"Earn Money\nBy Refer",
+      "share":"Share",
+      "steps":"Complete following steps to claim offers.",
+      "inviteFriend":"Invite your friend",
+      "shareCode":"Share your referral code.",
+      "newSignup":"SignUp as a new account",
+      "freshUser":"Your friend should be a fresh user.",
+      "offers":"Complete 5 offers",
+      "askFriend":"Ask your friend to complete deposit."
+    },
+    "Buttons": {
+      "Continue": "Continue",
+      "Register": "Register",
+      "Login": "Login",
+      "Detail": "Detail",
+      "Deposit": "Deposit",
+      "withdraw": "Withdraw",
+      "gameRules": "Game Rules",
+      "attendanceHistory": "Attendance History",
+      "attendance": "Attendance"
+    },
+    "titles": {
+      "notification": "Notifications",
+      "wallet": "Wallet",
+      "promotion": "Promotion",
+      "referral": "Referral",
+      "attendanceBonus": "Attendance Bonus",
+      "firstDepositBonus": "First Deposit Bonus",
+      "invitationRules": "Invitation Rules",
+      "invitationRecord": "Invitation Records"
+      
+    }
+  }
+}

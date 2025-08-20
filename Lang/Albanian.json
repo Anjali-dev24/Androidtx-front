@@ -1,0 +1,13 @@
+{
+    "translation": {
+      "Login": "Identifikohu",
+      "Password": "Fjalëkalimi",
+      "phone":"Numri i telefonit",
+      "title": "Ju lutemi identifikohuni me numrin tuaj të telefonit",
+      "forgot": "Keni harruar fjalëkalimin",
+      "remember": "Më kujto mua",
+      "register": "Regjistrohu",
+      "safe": "I sigurt dhe i sigurt"
+      
+   }
+  }

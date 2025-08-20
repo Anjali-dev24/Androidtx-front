@@ -1,0 +1,131 @@
+{
+  "currency": [
+    {
+      "name": "AFG"
+    },
+    {
+      "name": "ALB"
+    },
+    {
+      "name": "DZA"
+    },
+    {
+      "name": "ASM"
+    },
+    {
+      "name": "AND"
+    },
+    {
+      "name": "AGO"
+    },
+    {
+      "name": "AIA"
+    },
+    {
+      "name": "ATG"
+    },
+    {
+      "name": "ARG"
+    },
+    {
+      "name": "ARM"
+    },
+    {
+      "name": "ABW"
+    },
+    {
+      "name": "SHN"
+    },
+    {
+      "name": "AUS"
+    },
+    {
+      "name": "ATZ"
+    },
+    {
+      "name": "AUT"
+    },
+    {
+      "name": "BHS"
+    },
+    {
+      "name": "BHR"
+    },
+    {
+      "name": "BGD"
+    },
+    {
+      "name": "BRB"
+    },
+    {
+      "name": "BLR"
+    },
+
+    {
+      "name": "BEL"
+    },
+    {
+      "name": "BLZ"
+    },
+    {
+      "name": "BEN"
+    },
+    {
+      "name": "BMU"
+    },
+    {
+      "name": "BTN"
+    },
+    {
+      "name": "BOL"
+    },
+
+    {
+      "name": "BIH"
+    },
+    {
+      "name": "BWA"
+    },
+    {
+      "name": "BRA"
+    },
+    {
+      "name": "IOT"
+    },
+    {
+      "name": "VGB"
+    },
+    {
+      "name": "BRN"
+    },
+
+    {
+      "name": "BGR"
+    },
+    {
+      "name": "BFA"
+    },
+    {
+      "name": "BDI"
+    },
+    {
+      "name": "CPV"
+    },
+    {
+      "name": "KHM"
+    },
+    {
+      "name": "CMR"
+    },
+
+    {
+      "name": "CAN"
+    },
+    {
+      "name": "BES"
+    },
+    {
+      "name": "CYM"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+    "translation": {
+      "Login": "se connecter",
+      "Password": "mot de passe oublié",
+      "phone":"Numéro de téléphone",
+      "title": "veuillez vous connecter avec votre numéro de téléphone",
+      "forgot": "Mot de passe oublié",
+      "remember": "souviens-toi de moi",
+      "register": "registre",
+      "safe": "sûr et sécurisé"
+      
+   }
+  }
